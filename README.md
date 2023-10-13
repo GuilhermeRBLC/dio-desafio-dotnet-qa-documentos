@@ -1,2 +1,2 @@
-# dio-desafio-dotnet-qa-documentos
-Desafio DIO dotnet: O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais
+
+Este repositorio armazena documentação solicitada pra a conclusão do desafio de projeto: O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais.
